@@ -34,7 +34,7 @@
             <releases>
                 <enabled>false</enabled>
             </releases>
-            <snapshots>
+            <snapshots> 
                 <enabled>true</enabled>
             </snapshots>
         </repository>
